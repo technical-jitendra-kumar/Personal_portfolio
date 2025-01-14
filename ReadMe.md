@@ -1,49 +1,66 @@
-<div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/jitendra-kumar-22/portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/jitendra-kumar-22/portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/jitendra-kumar-22/portfolio-website?style=social)
+# Personal Portfolio Website
 
-  <br />
+A modern, responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project showcases your skills, projects, and experience while providing a platform to highlight your work and connect with visitors.
 
-  <h2 align="center">Responsive Portfolio Website</h2>
+## 🔗 Live Demo
 
-  Responsive Portfolio Website using HTML, CSS, JavaScript, and Bootstrap.
+[Click here to view the live demo](https://technical-jitendra-kumar.github.io/Personal_portfolio/)
 
-  <a href="https://jitendra-kumar-22.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+---
 
-</div>
+## 📂 Features
 
-<br />
+- **Responsive Design**: Fully functional on all screen sizes, from desktops to mobile devices.
+- **Interactive UI/UX**: Engaging animations and smooth transitions enhance user experience.
+- **Project Showcase**: Displays detailed information about your projects with links to repositories or live demos.
+- **About Section**: Highlights your skills, education, and experience.
+- **Contact Form**: Enables visitors to reach out via email.
+- **Social Media Links**: Directs visitors to your professional profiles (e.g., LinkedIn, GitHub).
 
-### Desktop Preview
+---
 
-![Desktop Preview](https://github.com/jitendra-kumar-22/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa)
+## 🛠️ Technologies Used
 
-### Prerequisites
+- **HTML**: For creating the structure of the website.
+- **CSS**: For styling and layout design.
+- **JavaScript**: For adding interactivity and dynamic content.
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* Basic to Intermediate knowledge of HTML, CSS, and JavaScript.
-* This website is developed using Bootstrap 5. Copy the following code:
+## 🚀 How to Use
 
-```html
-<!-- Bootstrap 5 CSS CDN Link -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/technical-jitendra-kumar/Personal_portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio-website
+   ```
+3. Open the `index.html` file in your preferred web browser.
 
-<!-- Bootstrap JavaScript CDN Link -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+---
 
-Project Features
-Sticky Responsive Navigation Bar
-Hero Section
-Expertise Section
-Skill Section with Progress Animation
-Working Portfolio Section
-Testimonial Section
-Blog Section
-Contact Section
-Footer Section
-Fully Responsive for all devices
-Font Family
-Google Fonts - Josefin Sans
+## ✨ Customization
+
+You can personalize this portfolio to match your branding and details:
+- Update the `index.html` file with your name, bio, and professional information.
+- Replace placeholder project links with your own.
+- Modify the `style.css` file to customize colors, fonts, or layout.
+
+---
+
+## 🌟 Screenshots
+ ### Homepage
+![Homepage Screenshot](images/screen1.png)
+### Project Showcase
+![Project Showcase Screenshot](images/Screenshot2.png)
+
+---
+
+## 📧 Contact
+
+For any inquiries, feel free to reach out via email or connect on LinkedIn:  
+- **Email**: jitendrakumarjjk10@gmail.com  
+- **LinkedIn**: [linkedin.com/in/your-profile](https://github.com/technical-jitendra-kumar)  
