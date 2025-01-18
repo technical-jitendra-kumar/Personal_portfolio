@@ -349,28 +349,28 @@ footer .link-group a:hover{
     background-color: #fff;
     padding: 14px 15px 10px 15px;
 }
-.social-links .dribble{
-    color: #f33a7e;
+.social-links .linkedin{
+    color: #255afc;
 }
 .social-links button:hover{
     color: #fff;
     transform: translateY(-20px);
     transition-duration: 1s;
 }
-.social-links .dribble:hover{
-    background-color: #f33a7e;
+.social-links .linkedin:hover{
+    background-color:#255afc;
 }
-.social-links .whatsapp{
-    color: #25D366;
+.social-links .instagram{
+    color: #931c4f;
 }
-.social-links .whatsapp:hover{
-    background-color: #25D366;
+.social-links .instagram:hover{
+    background-color: #931c4f;
 }
-.social-links .behance{
-    color: #255afc;
+.social-links .github{
+    color: #0f0f10;
 }
-.social-links .behance:hover{
-    background-color: #255afc;
+.social-links .github:hover{
+    background-color: #080808;
 }
 
 /* styling back to top button */
