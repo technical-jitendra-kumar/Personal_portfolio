@@ -405,3 +405,9 @@ footer .link-group a:hover{
     border-radius: 10px; /* Optional: Add rounded corners for a consistent look */
 }
 
+.jitu1{
+    width: 100%; /* Make the image take up the full width of the card */
+    height: 250px; /* Set a fixed height for uniformity */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    border-radius: 10px; /* Optional: Add rounded corners for a consistent look */
+}
