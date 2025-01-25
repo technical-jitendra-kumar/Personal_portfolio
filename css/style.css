@@ -384,3 +384,7 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+.img1{
+    width: 100%;
+    height: 40%;
+}
